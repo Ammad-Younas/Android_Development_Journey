@@ -14,6 +14,8 @@ More projects will be added as the journey continues.
 | 3 | [RockPaperScissor](./RockPaperScissor) | Kotlin Console | Classic Rock-Paper-Scissors game against the computer. |
 | 4 | [ShoppingList](./ShoppingList) | Android App | Android app to manage a shopping list — add and track items. |
 | 5 | [UnitConverter](./UnitConverter) | Android App | Android app for converting between different units of measurement. |
+| 6 | [CounterViewModel](./CounterViewModel) | Android App | Demonstrates the MVVM pattern — a simple counter backed by a `ViewModel` to survive configuration changes. |
+| 7 | [RecipeApp](./RecipeApp) | Android App | Fetches and displays recipes from a remote API using `ViewModel`, `Retrofit`, and Jetpack Compose. |
 
 ---
 
